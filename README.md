@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Salazar</h1>
-<h3 align="center">passionate about mobile app development, desktop app, web app, and video game development</h3>
+<h3 align="center">I am a computer science student passionate about mobile app development, desktop app, web app, and video game development</h3>
 
 - 🌱 I’m currently learning **C# and Unity**
 
