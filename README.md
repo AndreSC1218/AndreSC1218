@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm an Android Developer enthusiastic about creating high-quality mobile applications. Passionate about learning and collaborating on innovative projects. I also have experience in desktop and web application development, as well as video game development.<br><br>-💡  I like to explore new technologies to develop software solutions.<br><br>-📚  I'm currently a Junior developer and I'm studying everyday to improve my skills.<br><br>-⚡  In my free time, I like to play the guitar, draw, and play video games.<br><br>-💬  Feel free to reach out to me for volunteering, or just for some interesting discussion.</p>
+<p align="left">I'm an Android Developer enthusiastic about creating high-quality mobile applications. Passionate about learning and collaborating on innovative projects.<br><br>-💡  I like to explore new technologies to develop software solutions.<br><br>-📚  I'm currently a Junior developer and I'm studying everyday to improve my skills.<br><br>-⚡  In my free time, I like to play the guitar, draw, and play video games.<br><br>-💬  Feel free to reach out to me for volunteering, or just for some interesting discussion.</p>
 
 ###
 
